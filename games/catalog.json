@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "games": [
+    {
+      "slug": "fut100k",
+      "title": "十万个未来：未来已有人居住",
+      "english_title": "FUT100K: A City Yet to Be Lived In",
+      "version": "1.2",
+      "status": "playtest",
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "eras": [
+        2031,
+        2036,
+        2042,
+        2049,
+        2057,
+        2066
+      ],
+      "entry": "fut100k/README.md"
+    }
+  ]
+}
