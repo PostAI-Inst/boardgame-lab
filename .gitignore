@@ -1,0 +1,22 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Build caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+# Generator scratch files (keep approved PDFs under output/pdf/)
+games/*/tmp/
+games/*/output/quality/
+# Exported video & staged release files (video belongs in GitHub Releases)
+release-assets/
+*.mp4
+# Personal/private data
+.env
+.env.*
+*.key
+*.pem
