@@ -1,0 +1,42 @@
+{
+  "pdfs": [
+    {
+      "name": "十万个未来_九宫格图标卡牌_A4_每页9张.pdf",
+      "pages": 11,
+      "size_bytes": 10072300,
+      "box_errors": []
+    },
+    {
+      "name": "十万个未来_共享城市棋盘_A3.pdf",
+      "pages": 1,
+      "size_bytes": 450206,
+      "box_errors": []
+    },
+    {
+      "name": "十万个未来_故事与回声册.pdf",
+      "pages": 7,
+      "size_bytes": 281388,
+      "box_errors": []
+    },
+    {
+      "name": "十万个未来_未来已有人居住_完整打印版.pdf",
+      "pages": 29,
+      "size_bytes": 12641962,
+      "box_errors": []
+    },
+    {
+      "name": "十万个未来_棋盘玩家板与筹码_A4.pdf",
+      "pages": 5,
+      "size_bytes": 2113457,
+      "box_errors": []
+    },
+    {
+      "name": "十万个未来_规则与城市手册.pdf",
+      "pages": 6,
+      "size_bytes": 174894,
+      "box_errors": []
+    }
+  ],
+  "text_issues": [],
+  "missing_ids": []
+}

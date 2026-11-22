@@ -1,0 +1,52 @@
+{
+  "version": "1.2",
+  "layout_issues": [],
+  "base_issues": [],
+  "board_issues": [],
+  "cards": 99,
+  "game_cards": 96,
+  "helpers": 3,
+  "a4_card_mm": [
+    70,
+    99
+  ],
+  "external_bleed_mm": 0,
+  "image_fraction_by_type": {
+    "ambition": [
+      0.8053,
+      0.8053
+    ],
+    "city": [
+      0.8125,
+      0.8125
+    ],
+    "ending": [
+      0.8303,
+      0.8303
+    ],
+    "era": [
+      0.8125,
+      0.8125
+    ],
+    "helper": [
+      0,
+      0
+    ],
+    "life": [
+      0.8125,
+      0.8125
+    ],
+    "project": [
+      0.8125,
+      0.8125
+    ],
+    "quick": [
+      0,
+      0
+    ],
+    "role": [
+      0.8303,
+      0.8303
+    ]
+  }
+}
