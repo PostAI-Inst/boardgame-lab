@@ -1,0 +1,41 @@
+name: 试玩反馈 / Playtest report
+description: 反馈桌游规则、平衡、未来生活体验或出品问题
+title: '[playtest] '
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: '请勿填写参与者真实姓名、联系方式等个人隐私。'
+  - type: input
+    id: players
+    attributes:
+      label: 玩家人数和城市
+      placeholder: '3人，铸城 Forge'
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: 年代与卡牌号
+      placeholder: '2036，L09、P04'
+  - type: dropdown
+    id: category
+    attributes:
+      label: 反馈类型
+      options:
+        - 规则歧义 / Rules ambiguity
+        - 平衡与游戏性 / Balance and fun
+        - 未来代入感 / Future experience
+        - 排版或打印 / Print and layout
+        - 媒体与解说 / Media and narration
+        - 其他 / Other
+  - type: textarea
+    id: observation
+    attributes:
+      label: 发生了什么，预期是什么？
+    validations:
+      required: true
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: 建议修改及理由（可选）
