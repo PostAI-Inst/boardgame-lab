@@ -2,6 +2,8 @@
 
 **一款关于未来生活、代理、照护与规则的单人互动叙事游戏。**
 
+[**进入在线游戏**](https://postai-inst.github.io/boardgame-lab/games/postai-rules/) · [Boardgame Lab 首页](https://postai-inst.github.io/boardgame-lab/)
+
 2041 年，澄湾。城市已经确认家人全部到齐，但弟弟本人没有出现。你沿着多出来的一份晚饭，走进被登记为空置的街区，调查每条规则保护了谁，又把谁留在了交接之外。
 
 本游戏属于「后AI · 十万个未来」，位于 Boardgame Lab 的独立目录中。主线为《本人仍在此处》：六章、18 场调查、三个结局。另有 12 则独立怪谈，每则两场、三个结局；全游戏共 **13 个故事、42 个场景节点、39 个结局**。部分主线路线会跳过可选场景，一次游玩不会经过所有节点。
@@ -78,11 +80,11 @@ npm test
 
 游戏由 HTML、CSS、JavaScript 与本地资源组成。直接托管本目录即可，**不用 build**，也不需要应用服务器、数据库、API 密钥或在线大模型。
 
-GitHub Pages 部署目标：
+GitHub Pages 在线地址：
 
 <https://postai-inst.github.io/boardgame-lab/games/postai-rules/>
 
-上面的地址是部署目标，不代表本文已确认发布状态。发布时需让仓库站点包含 `games/postai-rules/` 目录，并保持文件的相对路径。
+仓库已配置从 `main` 分支根目录发布 GitHub Pages。更新提交后由 GitHub 自动构建；请在 Actions 中确认发布成功。游戏使用相对路径，可直接在上述子目录访问。
 
 ## 数据与叙事边界
 
