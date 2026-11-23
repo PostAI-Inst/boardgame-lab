@@ -20,6 +20,19 @@
         2066
       ],
       "entry": "fut100k/README.md"
+    },
+    {
+      "slug": "postai-rules",
+      "title": "后AI生活须知：本人仍在此处",
+      "english_title": "Post-AI Life Protocols: Still Here",
+      "version": "1.0.0",
+      "status": "playtest",
+      "format": "browser-interactive-fiction",
+      "players": { "min": 1, "max": 1 },
+      "chapters": 6,
+      "standalone_cases": 12,
+      "endings": 39,
+      "entry": "postai-rules/index.html"
     }
   ]
 }

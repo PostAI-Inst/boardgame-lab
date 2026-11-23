@@ -1,0 +1,12 @@
+{
+  "name": "postai-life-protocols",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "后AI生活须知 — browser-local interactive fiction in Boardgame Lab",
+  "scripts": {
+    "dev": "node dev-server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
